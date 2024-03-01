@@ -57,21 +57,6 @@ Connect with me on:
 </p>
 
 
-## 🚧 Projects and Dev Stuffs:
-
-I'm engaged in several ongoing projects, which include:
-
-- **01_Linux:** Configuration and scripting in Linux environments, enhancing system automation and management.
-- **02_Docker:** Containerization of applications, creating Dockerfiles, and managing Docker images for deployment.
-- **03_Ansible:** Writing Ansible playbooks for automated configuration management and application deployment.
-- **04_Terraform:** Defining infrastructure as code with Terraform to ensure reproducible and scalable cloud environments.
-- **05_Kubernetes:** Orchestrating containerized applications with Kubernetes, managing clusters, and automating deployment, scaling, and operations of application containers.
-
-These projects are part of a private repository, reflecting my continuous learning and application of DevOps principles and practices.
-
-*For more details on my contributions to these projects, please feel free to contact me.*
-
-
 ### Other tools:
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -88,12 +73,17 @@ These projects are part of a private repository, reflecting my continuous learni
 
 ## 🚧 Projects and Dev Stuffs:
 
-- ⚡ [Github Stats](Link-to-Github-Stats)
-- ☄️ [Github Streaks](Link-to-Github-Streaks)
-- 🧑‍🚀 [Open Source Projects](Link-to-Open-Source-Projects)
-- ⚙️ [Things I use to get stuff done](Link-to-Tools-and-Resources)
+I'm engaged in several ongoing projects, which include:
 
-**Show some ❤️ by starring some of the repositories!**
+- **01_Linux:** Configuration and scripting in Linux environments, enhancing system automation and management.
+- **02_Docker:** Containerization of applications, creating Dockerfiles, and managing Docker images for deployment.
+- **03_Ansible:** Writing Ansible playbooks for automated configuration management and application deployment.
+- **04_Terraform:** Defining infrastructure as code with Terraform to ensure reproducible and scalable cloud environments.
+- **05_Kubernetes:** Orchestrating containerized applications with Kubernetes, managing clusters, and automating deployment, scaling, and operations of application containers.
+
+These projects are part of a private repository, reflecting my continuous learning and application of DevOps principles and practices.
+
+*For more details on my contributions to these projects, please feel free to contact me.*
 
 ## Professional Experience:
 
