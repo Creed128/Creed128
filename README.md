@@ -5,19 +5,20 @@ Nice to meet you! Let me introduce myself in a few lines.
 <table>
 <tr>
 <td valign="top">
-- 👨‍💻 As a DevOps and Linux System Engineer, I thrive on automation and efficiency.
-- 🌍 Residing in Wuppertal, Germany, I'm on the lookout for nearby opportunities that offer the flexibility of remote work.
-- 🚀 Currently between roles, I'm eager to embrace new challenges and contribute to innovative projects.
-- 📚 Expanding my skill set, I'm diving deep into Kubernetes for my CKA certification, alongside mastering DevOps tools such as Ansible, Helm, and the observability stack (including Prometheus and Grafana).
-- ❓ Feel free to reach out if you're curious about Linux, Docker, Kubernetes, Terraform, or if you have an opportunity that matches my skill set.
-- 📩 Direct contact at credongoukeng@gmail.com for any professional inquiries, opportunities, or just to connect.
-- 🎈 Outside of technology, my world revolves around reading, exploring new destinations, and the excitement of football.
+
+<ul>
+  <li>👨‍💻 As a DevOps and Linux System Engineer, I thrive on automation and efficiency.</li>
+  <li>🌍 Residing in Wuppertal, Germany, I'm on the lookout for nearby opportunities that offer the flexibility of remote work.</li>
+  <li>🚀 Currently between roles, I'm eager to embrace new challenges and contribute to innovative projects.</li>
+  <li>📚 Expanding my skill set, I'm diving deep into Kubernetes for my CKA certification, alongside mastering DevOps tools such as Ansible, Helm, and the observability stack (including Prometheus and Grafana).</li>
+  <li>❓ Feel free to reach out if you're curious about Linux, Docker, Kubernetes, Terraform, or if you have an opportunity that matches my skill set.</li>
+  <li>📩 Direct contact at credongoukeng@gmail.com for any professional inquiries, opportunities, or just to connect.</li>
+  <li>🎈 Outside of technology, my world revolves around reading, exploring new destinations, and the excitement of football.</li>
+</ul>
 
 </td>
 <td>
-
 ![Welcome GIF](https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif)
-
 </td>
 </tr>
 </table>
