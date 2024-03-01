@@ -5,14 +5,14 @@ Nice to meet you! Let me introduce myself in a few lines.
 <table>
 <tr>
 <td valign="top">
+- 👨‍💻 As a DevOps and Linux System Engineer, I thrive on automation and efficiency.
+- 🌍 Residing in Wuppertal, Germany, I'm on the lookout for nearby opportunities that offer the flexibility of remote work.
+- 🚀 Currently between roles, I'm eager to embrace new challenges and contribute to innovative projects.
+- 📚 Expanding my skill set, I'm diving deep into Kubernetes for my CKA certification, alongside mastering DevOps tools such as Ansible, Helm, and the observability stack (including Prometheus and Grafana).
+- ❓ Feel free to reach out if you're curious about Linux, Docker, Kubernetes, Terraform, or if you have an opportunity that matches my skill set.
+- 📩 Direct contact at credongoukeng@gmail.com for any professional inquiries, opportunities, or just to connect.
+- 🎈 Outside of technology, my world revolves around reading, exploring new destinations, and the excitement of football.
 
-- 👨‍🔧 I'm a DevOps / Linux System Engineer.
-- 📍 Located in Wuppertal, Germany, I'm searching for jobs nearby with remote work flexibility
-- 🏢 I'm working for no one at the moment, looking for new opportunities!
-- 🌱 I'm currently learning Kubernetes in order to get my CKA and multiple other DevOps tools like Ansible, Helm, and observability stack (Prometheus, Grafana...).
-- 💬 You can ask me about Linux, Docker, Kubernetes, Terraform...
-- 📮 You can contact me directly here: credongoukeng@gmail.com
-- 💬 For my hobbies, I enjoy reading, traveling, and am an avid football fan.
 </td>
 <td>
 
