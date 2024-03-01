@@ -57,13 +57,20 @@ Connect with me on:
 </p>
 
 
-### Operating Systems:
-<p>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
+## 🚧 Projects and Dev Stuffs:
+
+I'm engaged in several ongoing projects, which include:
+
+- **01_Linux:** Configuration and scripting in Linux environments, enhancing system automation and management.
+- **02_Docker:** Containerization of applications, creating Dockerfiles, and managing Docker images for deployment.
+- **03_Ansible:** Writing Ansible playbooks for automated configuration management and application deployment.
+- **04_Terraform:** Defining infrastructure as code with Terraform to ensure reproducible and scalable cloud environments.
+- **05_Kubernetes:** Orchestrating containerized applications with Kubernetes, managing clusters, and automating deployment, scaling, and operations of application containers.
+
+These projects are part of a private repository, reflecting my continuous learning and application of DevOps principles and practices.
+
+*For more details on my contributions to these projects, please feel free to contact me.*
+
 
 ### Other tools:
 <p>
