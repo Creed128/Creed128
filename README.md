@@ -75,11 +75,11 @@ Connect with me on:
 
 I'm engaged in several ongoing projects, which include:
 
-- **01_Linux:** Configuration and scripting in Linux environments, enhancing system automation and management.
-- **02_Docker:** Containerization of applications, creating Dockerfiles, and managing Docker images for deployment.
-- **03_Ansible:** Writing Ansible playbooks for automated configuration management and application deployment.
-- **04_Terraform:** Defining infrastructure as code with Terraform to ensure reproducible and scalable cloud environments.
-- **05_Kubernetes:** Orchestrating containerized applications with Kubernetes, managing clusters, and automating deployment, scaling, and operations of application containers.
+- **Linux:** Configuration and scripting in Linux environments, enhancing system automation and management.
+- **Docker:** Containerization of applications, creating Dockerfiles, and managing Docker images for deployment.
+- **Ansible:** Writing Ansible playbooks for automated configuration management and application deployment.
+- **Terraform:** Defining infrastructure as code with Terraform to ensure reproducible and scalable cloud environments.
+- **Kubernetes:** Orchestrating containerized applications with Kubernetes, managing clusters, and automating deployment, scaling, and operations of application containers.
 
 These projects are part of a private repository, reflecting my continuous learning and application of DevOps principles and practices.
 
