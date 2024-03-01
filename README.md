@@ -5,7 +5,6 @@ Nice to meet you! Let me introduce myself in a few lines.
 <table>
 <tr>
 <td valign="top">
-
 <ul>
   <li>👨‍💻 As a DevOps and Linux System Engineer, I thrive on automation and efficiency.</li>
   <li>🌍 Residing in Wuppertal, Germany, I'm on the lookout for nearby opportunities that offer the flexibility of remote work.</li>
@@ -15,10 +14,9 @@ Nice to meet you! Let me introduce myself in a few lines.
   <li>📩 Direct contact at credongoukeng@gmail.com for any professional inquiries, opportunities, or just to connect.</li>
   <li>🎈 Outside of technology, my world revolves around reading, exploring new destinations, and the excitement of football.</li>
 </ul>
-
 </td>
 <td>
-![Welcome GIF](https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif)
+<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="Welcome GIF" style="max-width: 100%;"/>
 </td>
 </tr>
 </table>
