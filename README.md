@@ -27,10 +27,10 @@ As a goal-oriented DevOps Engineer with two AWS certifications, I specialize in 
 
 Connect with me on:
 
-<a href="Link-to-Your-LinkedIn-Profile">
+<a href="https://www.linkedin.com/in/credo-ngoukeng-95725892/">
   <img src="https://img.shields.io/badge/LinkedIn-Credo%20Ngoukeng-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
-<a href="Link-to-Your-Xing-Profile">
+<a href="https://www.xing.com/profile/Credo_TsafackNgoukeng/web_profiles?expandNeffi=true">
   <img src="https://img.shields.io/badge/Xing-Credo%20Ngoukeng-green?style=flat&logo=xing" alt="Xing Badge"/>
 </a>
 
