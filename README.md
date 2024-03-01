@@ -23,10 +23,17 @@ Nice to meet you! Let me introduce myself in a few lines.
 
 As a goal-oriented DevOps Engineer with two AWS certifications, I specialize in agile development and cloud infrastructure management. My focus is on implementing efficient, serverless solutions to optimize and advance modern IT processes.
 
-## 🌐 You can find me on:
+## Reach Me 📧
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Credo Ngoukeng LinkedIn profile](Link-to-Your-LinkedIn-Profile)
-- ![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white) [Credo Ngoukeng Xing profile](Link-to-Your-Xing-Profile)
+Connect with me on:
+
+<a href="Link-to-Your-LinkedIn-Profile">
+  <img src="https://img.shields.io/badge/LinkedIn-Credo%20Ngoukeng-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+<a href="Link-to-Your-Xing-Profile">
+  <img src="https://img.shields.io/badge/Xing-Credo%20Ngoukeng-green?style=flat&logo=xing" alt="Xing Badge"/>
+</a>
+
 
 ## 🖥️ My tech stacks:
 
